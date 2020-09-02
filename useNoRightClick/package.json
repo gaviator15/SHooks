@@ -1,0 +1,26 @@
+{
+  "name": "@shooks/use-no-right-click",
+  "version": "1.0.0",
+  "description": "React Hook to ban Right-Click",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaviator15/shooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "mouse-event",
+    "right-click"
+  ],
+  "author": "Ray Kim <gaviator15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaviator15/shooks/issues"
+  },
+  "homepage": "https://github.com/gaviator15/shooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
