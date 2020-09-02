@@ -1,5 +1,5 @@
 {
-  "name": "@shooks/use-no-right-click",
+  "name": "@shooks_rk/use-no-right-click",
   "version": "1.0.0",
   "description": "React Hook to ban Right-Click",
   "main": "index.js",
